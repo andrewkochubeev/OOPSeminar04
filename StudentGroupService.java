@@ -11,7 +11,7 @@ public class StudentGroupService {
         return studentGroup;
     }
 
-    public void createStudent(Student student){
+    public void createStudent(Student student) {
         studentGroup.createStudent(student);
     }
 
